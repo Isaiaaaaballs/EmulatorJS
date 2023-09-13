@@ -1,4 +1,4 @@
-# Nintendo GameBoy Advance
+ Nintendo GameBoy Advance
 
 ## Code Example
 
